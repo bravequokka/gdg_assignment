@@ -6,9 +6,13 @@
 javascript, react, library, JSX
 --------------------------------------
 ###react : UI를 만들기 위한 도구, 프로그래밍 언어x, javascrpit library
+
 ###library : 다른 프로그램에서 가져다 사용 할 수 있도록 만들어 놓은 코드의 모음
+
 ###javascript + react -> UI
+
 ###JSX : Javascript 안에서 UI를 표현하기 위한 문법 (확장자 : .jsx)
+
 ###{} : javascript와 JSX를 연결
 ----------------------------------------
 ###실습내용 : react 직접 실행해서 화면을 바꿔보기
