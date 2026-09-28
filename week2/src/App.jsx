@@ -10,7 +10,7 @@ function App() {
     <main className="feed">
       <article className="post">
         <header className="profile">
-          <img className="profile-image" src="/images/eden-avatar.png" alt="프로필" />
+          <img className="profile-image" src="\images\tokyo.png" alt="프로필" />
 
           <div className="profile-text">
             {/* 여기! */}
@@ -19,7 +19,7 @@ function App() {
           </div>
           <button className="more-button">•••</button>
         </header>
-        <img className="post-image" src="/images/picasso.png" alt="피카소 캐릭터" />
+        <img className="post-image" src="\images\tokyonight.jpeg" alt="도쿄의 밤" />
         <section className="content">
           <div className="actions">
             <div>
